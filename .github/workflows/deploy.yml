@@ -26,17 +26,44 @@ jobs:
         with:
           python-version: '3.x'
           
-      - name: Install dependencies
-        run: |
-          pip install mkdocs-material
-          # 如果你使用其他插件，在这里添加
-          # pip install mkdocs-awesome-pages-plugin
+      - name: Cache pip dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
           
-      - name: Build site
-        run: mkdocs build
-        
+      - name: Install MkDocs and dependencies
+        run: |
+          pip install --upgrade pip
+          pip install mkdocs-material
+          pip install mkdocs
+          # 如果你有其他插件需求，可以在这里添加
+          
+      - name: Verify MkDocs installation
+        run: |
+          mkdocs --version
+          python -c "import mkdocs; print('MkDocs installed successfully')"
+          
+      - name: List files for debugging
+        run: |
+          echo "Current directory contents:"
+          ls -la
+          echo "Docs directory contents:"
+          ls -la docs/ || echo "docs directory not found"
+          echo "MkDocs config:"
+          cat mkdocs.yml || echo "mkdocs.yml not found"
+          
+      - name: Build MkDocs site
+        run: |
+          echo "Building MkDocs site..."
+          mkdocs build --verbose
+          echo "Build completed. Site directory contents:"
+          ls -la site/
+          
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v4
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
