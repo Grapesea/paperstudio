@@ -1,0 +1,79 @@
+site_name: 纸媒工作室-内训材料整合
+copyright: Copyright &copy; 2024 视觉工作室
+theme: 
+  name: material
+  logo: graph/logo.jpg
+# pages:
+# - [index.md, Home]
+# - [about.md, About]
+  favicon: graph/logo.jpg
+  features:
+    - search.highlight
+#    - navigation.instant
+    - navigation.footer
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
+    - content.code.copy
+    - content.code.annotate
+    - content.action.edit
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+nav:
+  - 首页: index.md
+  - 纳新面试: team/index.md
+  - 管理条例: 
+    - 条例目录: rule/index.md
+    - 接锅流程: rule/workflow/index.md
+    - 设备管理条例: rule/device/index.md
+    - 视觉工作室设备租用细则: rule/rent/index.md
+    - 浙江大学竺可桢学院全媒体中心章程: rule/constitution/index.md
+    - 浙江大学竺可桢学院学生评价实施细则: rule/detail/index.md
+    - 竺可桢学院公共空间使用办法（试行）: rule/method/index.md
+  - 出锅实录: 
+    - 出锅记录表: pot/index.md
+    - 荣誉课程拍摄: pot/pot_0/index.md
+    - 国庆升旗拍摄: pot/pot_1/index.md
+    - 校运会拍摄: pot/pot_2/index.md
+    - 交流会拍摄: pot/pot_3/index.md
+    - 灵韵音乐剧录像: pot/pot_4/index.md
+    - 院庆活动拍摄: pot/pot_5/index.md
+    - 大师交流会拍摄: pot/pot_6/index.md
+    - 游泳测试拍摄: pot/pot_7/index.md
+    - 诺奖解读拍摄&直播: pot/pot_8/index.md
+    - 灵韵合唱团专场拍摄&录像: pot/pot_9/index.md
+    - 新生辩论赛拍摄: pot/pot_10/index.md
+    - 培训活动拍摄: pot/pot_11/index.md
+    - 十佳荣誉学子评选拍摄: pot/pot_12/index.md
+    - 新年音乐会拍摄: pot/pot_13/index.md
+    - 竺涯共语拍摄: pot/pot_14/index.md
+    - 竺老诞辰纪念活动拍摄: pot/pot_15/index.md
+    - 讲座及青马开班仪式拍摄: pot/pot_16/index.md
+  - 视觉周记: 
+    - 周记目录: weekly/index.md
+    - 例会0: weekly/meeting_0/index.md
+    - 例会1: weekly/meeting_1/index.md
+    - 例会2: weekly/meeting_2/index.md
+    - 例会3: weekly/meeting_3/index.md
+    - 例会4: weekly/meeting_4/index.md
+    - 例会5: weekly/meeting_5/index.md
+    - 例会6: weekly/meeting_6/index.md
+    - 例会7: weekly/meeting_7/index.md
+    - 例会8: weekly/meeting_8/index.md
+    - 例会9: weekly/meeting_9/index.md
+    - 例会10: weekly/meeting_10/index.md
+  - 相关资源: 
+    - 资源目录: resource/index.md
+    - 视觉秘籍: resource/book/index.md
+    - 全媒体资源: resource/media/index.md
+    - 设备说明书: resource/manual/index.md
+    - 直播操控台软件: resource/software/index.md
+    - 搭建直播系统教程: resource/live/index.md
+    - b站up主推荐: resource/up/index.md
