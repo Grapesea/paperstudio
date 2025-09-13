@@ -1,5 +1,11 @@
 # 资源列表
 
+!!! warning
+
+    《竺院人》杂志属于非商用。
+
+    值得注意的是，部分资源网站可能只能英文检索，或者可能无法内网访问。
+
 <table>
 <thead>
     <tr>
@@ -9,28 +15,20 @@
 </thead>
 <tbody>
     <tr>
-        <td><a href="book/">视觉秘籍</a></td>
-        <td>前辈留下的视觉进阶指南</td>
-    </tr>
-    <tr>
         <td><a href="media/">全媒体资源</a></td>
         <td>竺可桢学院全媒体中心的资源分享</td> 
     </tr>
     <tr>
-        <td><a href="manual/">设备说明书</a></td>
-        <td>视觉工作室有关设备的使用说明书</td>
+        <td><a href="font/">字体资源</a></td>
+        <td>各种字体资源的汇总网址</td>
     </tr>
     <tr>
-        <td><a href="software/">直播操控台软件</a></td>
-        <td>平时进行直播操作的软件</td>
+        <td><a href="photo/">图片资源</a></td>
+        <td>各种美术设计图片的安放之处</td>
     </tr>
     <tr>
-        <td><a href="live/">搭建直播系统教程</a></td>
-        <td>bowling学长录制的直播教程</td>
-    </tr>
-    <tr>
-        <td><a href="up/">b站up主推荐</a></td>
-        <td>老大们的up主推荐</td>
+        <td><a href="etc/">其它资源</a></td>
+        <td>各种inspiration的安放之处</td>
     </tr>
 </tbody>
 </table>

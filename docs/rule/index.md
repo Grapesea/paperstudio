@@ -18,18 +18,6 @@
 </thead>
 <tbody>
     <tr>
-        <td><a href="workflow/workflow_of_pot.pdf">接锅流程</a></td>
-        <td>针对视觉工作室干事接取任务的整个工作流</td>
-    </tr>
-    <tr>
-        <td><a href="device/">设备管理条例</a></td>
-        <td>设备清单，针对视觉工作室干事的取用原则及注意事项</td>
-    </tr>
-    <tr>
-        <td><a href="rent/">视觉工作室设备租用细则</a></td>
-        <td>针对竺院其他学生组织的租用原则、详细流程及注意事项</td>
-    </tr>
-    <tr>
         <td><a href="constitution/">浙江大学竺可桢学院全媒体中心章程</a></td>
         <td>竺可桢学院全媒体中心制度管理、考评细则等</td>
     </tr>
