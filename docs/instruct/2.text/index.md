@@ -168,11 +168,11 @@
 
     1.点开“导语”文件夹，上传各板块导语文件
 
-    <center><img src="figures/href1.png" style="zoom: 50%;" /></center>
+    <center><img src="figures/href1.png" style="zoom: 80%;" /></center>
 
     2.登录金山文档网页版，打开上传的导语文件，复制网页地址
 
-    <center><img src="figures/href2.png" style="zoom: 50%;" /></center>
+    <center><img src="figures/href2.png" style="zoom: 80%;" /></center>
 
     3.打开“工作安排”文件，点击对应板块导语，上方插入-超链接，粘贴刚刚复制的网址，点击添加
 

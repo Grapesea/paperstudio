@@ -44,9 +44,11 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 纳新面试: 
+    - 面试指引: team/index.md
     - 短信发送模板: team/pre0.md
     - 面试官礼仪: team/pre1.md
-    - 面试问题汇总: team/index.md
+    - 面试问题: team/problem.md
+    - 个人向草稿: team/draft.md
   - 工作指南: 
     - 前言：版本迭代记录与致谢: instruct/index.md
     - 纸媒工作流程: instruct/1.workflow/index.md
@@ -65,3 +67,6 @@ nav:
     - 字体资源: resource/font/index.md
     - 图片资源: resource/photo/index.md
     - 其它资源: resource/etc/index.md
+  - 产品展示:
+    - 近期刊物展示: product/index.md
+    
