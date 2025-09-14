@@ -43,7 +43,10 @@ markdown_extensions:
       permalink: true
 nav:
   - 首页: index.md
-  - 纳新面试: team/index.md
+  - 纳新面试: 
+    - 短信发送模板: team/pre0.md
+    - 面试官礼仪: team/pre1.md
+    - 面试问题汇总: team/index.md
   - 工作指南: 
     - 前言：版本迭代记录与致谢: instruct/index.md
     - 纸媒工作流程: instruct/1.workflow/index.md

@@ -120,11 +120,11 @@
 
 1.检查打包过来的各个Id文档图层命名，提前将命名改为“文章名+编号”的形式，以防板块合并时图层一起合并导致图片重叠。
 
-<center><img src="figures/7.png" style="zoom: 30%;" /></center>
+<center><img src="figures/7.png" style="zoom: 50%;" /></center>
 
 在“页面”中，按住shift选中要复制的页面，右键选择“移动页面”，选择“移至”目标文件；
 
-<center><img src="figures/8.png" style="zoom: 30%;" /></center>
+<center><img src="figures/8.png" style="zoom: 50%;" /></center>
 
 2.在目标文件的“页面”中，可以看到每个板块第一页上边缘有一个倒三角标志，表示这是一个新章节；
 
