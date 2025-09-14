@@ -48,7 +48,7 @@ nav:
     - 短信发送模板: interview/pre0.md
     - 面试官礼仪: interview/pre1.md
     - 面试问题: interview/problem.md
-    - 个人向草稿: interview/draft.md
+    # - 个人向草稿: interview/draft.md
   - 工作指南: 
     - 前言：版本迭代记录与致谢: instruct/index.md
     - 纸媒工作流程: instruct/1.workflow/index.md
