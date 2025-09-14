@@ -71,3 +71,7 @@ nav:
     - 风采展示: product/index.md
     - 近期刊物: product/magazine.md
     - 官方报道: product/report.md
+  - 贡献文档:
+    - 参考文档（前置知识）: build/index.md
+    - 如何对本文档进行修改: build/modify.md
+    - 如何本地构建文档并实时预览: build/local.md
