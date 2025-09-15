@@ -73,5 +73,6 @@ nav:
     - 官方报道: product/report.md
   - 贡献文档:
     - 参考文档（前置知识）: build/index.md
+    - 文件夹结构: build/structure.md
     - 如何对本文档进行修改: build/modify.md
     - 如何本地构建文档并实时预览: build/localbuild.md
