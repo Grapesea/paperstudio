@@ -45,7 +45,7 @@ nav:
   - 首页: index.md
   - 纳新面试: 
     - 面试指引: interview/index.md
-    - 短信发送模板: interview/pre0.md
+    - 短信模板: interview/pre0.md
     - 面试官礼仪: interview/pre1.md
     - 面试问题: interview/problem.md
     # - 个人向草稿: interview/draft.md
