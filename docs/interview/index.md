@@ -9,11 +9,11 @@
 </thead>
 <tbody>
     <tr>
-        <td><a href="pre0.md">短信模板</a></td>
-        <td>面试通知、临时更改信息、录取与未录取短信的模板汇总</td> 
+        <td><a href="pre0">短信模板</a></td>
+        <td>面试通知、临时更改信息、录取与未录取短信的模板汇总</td>
     </tr>
     <tr>
-        <td><a href="pre1.md">面试官礼仪</a></td>
+        <td><a href="pre1">面试官礼仪</a></td>
         <td>主要是面试时需要注意的东西</td>
     </tr>
 </tbody>

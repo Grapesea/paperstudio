@@ -7,10 +7,10 @@
 </thead>
 <tbody>
     <tr>
-        <td><a href="magazine.md">近期刊物</a></td>
+        <td><a href="magazine">近期刊物</a></td>
         <td>近一年以来，纸媒人出品的《竺院人》刊</td>
     </tr>
-        <td><a href="report.md">官方报道</a></td>
+        <td><a href="report">官方报道</a></td>
         <td>人民号等官方媒体的报道</td>
     <tr>
 </tbody>
