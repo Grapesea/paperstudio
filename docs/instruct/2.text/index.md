@@ -54,17 +54,13 @@
 
 2025年新生刊的大致安排如下，可供参考，建议所有留任干事在春夏学期期末考试后开会讨论分工及建议。
 
-!!! tips
-    总时间轴：
+!!! tips "总时间轴"
 
-    6.23所有干事期末考试结束$\Longrightarrow$
-    6.29开会，初步讨论$\Longrightarrow$
-    7.15前初稿收集完毕$\Longrightarrow$
-    7.18文编完成初审$\Longrightarrow$
-    7.27美编完成排版$\Longrightarrow$
-    7.28-8.1送老师审核$\Longrightarrow$
-    8.1-8.5最后修改与审核（包括老师那边的审核）$\Longrightarrow$
-    8.24大一新生报道
+    6.23所有干事期末考试结束 $\Longrightarrow$ 6.29开会，初步讨论 $\Longrightarrow$ 7.15前初稿收集完毕
+
+    $\Longrightarrow$ 7.18文编完成初审 $\Longrightarrow$ 7.27美编完成排版 $\Longrightarrow$ 7.28-8.1送老师审核$\Longrightarrow$ 8.1-8.5最后修改与审核（包括老师审核）
+
+    $\Longrightarrow$ 8.24大一新生报道
 
 * 卷首语  篇幅不要太长
 

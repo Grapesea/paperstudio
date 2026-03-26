@@ -47,6 +47,9 @@ markdown_extensions:
   - pymdownx.details
   - footnotes
   - attr_list
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js
 nav:
   - 首页: index.md
   - 纳新面试: 

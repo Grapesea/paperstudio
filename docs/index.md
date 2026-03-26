@@ -15,4 +15,6 @@ nocomment: True
 
 <br/>
 
+> [过往资源仓库-2017 CKCers Magazine Team](https://celestialphineas.github.io/ckcers-tutorial/)
+
 > 本站点是在[全媒体中心视觉工作室的仓库](https://dustbin-li.github.io/2024visualstudio/)的基础上魔改而来的，向原作者[@Dustbin-Li](https://github.com/Dustbin-Li)致以感谢。
