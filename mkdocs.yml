@@ -41,6 +41,12 @@ markdown_extensions:
       guess_lang: false
   - toc:
       permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - footnotes
+  - attr_list
 nav:
   - 首页: index.md
   - 纳新面试: 
